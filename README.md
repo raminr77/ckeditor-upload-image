@@ -17,9 +17,9 @@ this React Project help you for how to **upload image in CKEditor 5 with API** U
 ### Server Response
 ```
 {
-    'uploaded': true,
-    'fileName': 'example',
-    'url': 'https://example.com'
+    uploaded: true,
+    fileName: 'example',
+    url: 'https://example.com'
 }
 ```
 
